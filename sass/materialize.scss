@@ -1,40 +1,40 @@
 @charset "UTF-8";
 
 // Mixins
-// @import "components/materialize/prefixer";
-@import "components/materialize/mixins";
-@import "components/materialize/color";
+// @import "vendor/materialize/prefixer";
+@import "vendor/materialize/mixins";
+@import "vendor/materialize/color";
 
 // Variables;
-@import "components/materialize/variables";
+@import "vendor/materialize/variables";
 
 // Reset
-@import "components/materialize/normalize";
+@import "vendor/materialize/normalize";
 
 // components
-@import "components/materialize/global";
-@import "components/materialize/icons-material-design";
-@import "components/materialize/grid";
-@import "components/materialize/navbar";
-@import "components/materialize/roboto";
-@import "components/materialize/typography";
-@import "components/materialize/cards";
-@import "components/materialize/toast";
-@import "components/materialize/tabs";
-@import "components/materialize/tooltip";
-@import "components/materialize/buttons";
-@import "components/materialize/dropdown";
-@import "components/materialize/waves";
-@import "components/materialize/modal";
-@import "components/materialize/collapsible";
-@import "components/materialize/chips";
-@import "components/materialize/materialbox";
-@import "components/materialize/forms/forms";
-@import "components/materialize/table_of_contents";
-@import "components/materialize/sideNav";
-@import "components/materialize/preloader";
-@import "components/materialize/slider";
-@import "components/materialize/carousel";
-@import "components/materialize/date_picker/default";
-@import "components/materialize/date_picker/default.date";
-@import "components/materialize/date_picker/default.time";
+@import "vendor/materialize/global";
+@import "vendor/materialize/icons-material-design";
+@import "vendor/materialize/grid";
+@import "vendor/materialize/navbar";
+@import "vendor/materialize/roboto";
+@import "vendor/materialize/typography";
+@import "vendor/materialize/cards";
+@import "vendor/materialize/toast";
+@import "vendor/materialize/tabs";
+@import "vendor/materialize/tooltip";
+@import "vendor/materialize/buttons";
+@import "vendor/materialize/dropdown";
+@import "vendor/materialize/waves";
+@import "vendor/materialize/modal";
+@import "vendor/materialize/collapsible";
+@import "vendor/materialize/chips";
+@import "vendor/materialize/materialbox";
+@import "vendor/materialize/forms/forms";
+@import "vendor/materialize/table_of_contents";
+@import "vendor/materialize/sideNav";
+@import "vendor/materialize/preloader";
+@import "vendor/materialize/slider";
+@import "vendor/materialize/carousel";
+@import "vendor/materialize/date_picker/default";
+@import "vendor/materialize/date_picker/default.date";
+@import "vendor/materialize/date_picker/default.time";
