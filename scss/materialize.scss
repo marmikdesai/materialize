@@ -1,40 +1,40 @@
 @charset "UTF-8";
 
 // Mixins
-// @import "vendor/materialize/prefixer";
-@import "vendor/materialize/mixins";
-@import "vendor/materialize/color";
+// @import "components/prefixer";
+@import "components/mixins";
+@import "components/color";
 
 // Variables;
-@import "vendor/materialize/variables";
+@import "components/variables";
 
 // Reset
-@import "vendor/materialize/normalize";
+@import "components/normalize";
 
 // components
-@import "vendor/materialize/global";
-@import "vendor/materialize/icons-material-design";
-@import "vendor/materialize/grid";
-@import "vendor/materialize/navbar";
-@import "vendor/materialize/roboto";
-@import "vendor/materialize/typography";
-@import "vendor/materialize/cards";
-@import "vendor/materialize/toast";
-@import "vendor/materialize/tabs";
-@import "vendor/materialize/tooltip";
-@import "vendor/materialize/buttons";
-@import "vendor/materialize/dropdown";
-@import "vendor/materialize/waves";
-@import "vendor/materialize/modal";
-@import "vendor/materialize/collapsible";
-@import "vendor/materialize/chips";
-@import "vendor/materialize/materialbox";
-@import "vendor/materialize/forms/forms";
-@import "vendor/materialize/table_of_contents";
-@import "vendor/materialize/sideNav";
-@import "vendor/materialize/preloader";
-@import "vendor/materialize/slider";
-@import "vendor/materialize/carousel";
-@import "vendor/materialize/date_picker/default";
-@import "vendor/materialize/date_picker/default.date";
-@import "vendor/materialize/date_picker/default.time";
+@import "components/global";
+@import "components/icons-material-design";
+@import "components/grid";
+@import "components/navbar";
+@import "components/roboto";
+@import "components/typography";
+@import "components/cards";
+@import "components/toast";
+@import "components/tabs";
+@import "components/tooltip";
+@import "components/buttons";
+@import "components/dropdown";
+@import "components/waves";
+@import "components/modal";
+@import "components/collapsible";
+@import "components/chips";
+@import "components/materialbox";
+@import "components/forms/forms";
+@import "components/table_of_contents";
+@import "components/sideNav";
+@import "components/preloader";
+@import "components/slider";
+@import "components/carousel";
+@import "components/date_picker/default";
+@import "components/date_picker/default.date";
+@import "components/date_picker/default.time";

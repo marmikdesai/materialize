@@ -22,11 +22,6 @@ $media-expressions: (
 @import 'vendor/include-media';
 
 @import "materialize-custom";
-@import "vendor/materialize/variables";
-@import "vendor/materialize/mixins";
-
-@import 'base/mixins';
-@import 'base/helpers';
 
 
 #wrapper {
