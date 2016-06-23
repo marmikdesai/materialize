@@ -20,9 +20,8 @@ $media-expressions: (
 // ligatured operators ≥ ≤
 
 @import 'vendor/include-media';
-
 @import "materialize-custom";
-
+@import "materialize";
 
 #wrapper {
 	max-width: 1000px;
